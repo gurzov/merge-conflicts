@@ -7,6 +7,13 @@
   duration: 2016 &mdash; Present
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
+  
+  # test project
+- project: pet-test
+  role: Main Contributor
+  duration: 2015 &mdash; 2016
+  url: "https://github.com/test/pet-test"
+  description: Test description of test project
 
 # GitHub Classroom
 - project: GitHub Classroom
